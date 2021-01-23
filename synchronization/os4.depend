@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1605912913 source:/home/eslam11/Desktop/codeblocks/os4/caltrain-runner.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+	"caltrain.h"
+
+1606845588 /home/eslam11/Desktop/codeblocks/os4/caltrain.h
+	<pthread.h>
+
+1606848013 source:/home/eslam11/Desktop/codeblocks/os4/caltrain.c
+	<pthread.h>
+	"caltrain.h"
+
